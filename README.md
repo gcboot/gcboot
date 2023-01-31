@@ -9,4 +9,4 @@
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
 
-⭐️ From [devSouvik](https://github.com/gcboot)
+⭐️ From [gcboot](https://github.com/gcboot)
