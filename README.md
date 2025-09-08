@@ -3,9 +3,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python   
+- 💻 &nbsp; Python (Dash - Flask - Django)  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Xampp
+- 🛢 &nbsp; MySQL | Xampp | SQL server | postgresql
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
 
